@@ -16,7 +16,7 @@ Open the index.html file in your browser.
 
 🌐 Live Demo
 View the project live:
-👉 Live Demo
+👉 https://amitsarkar76.github.io/-New-Year-2025/
 
 
 
